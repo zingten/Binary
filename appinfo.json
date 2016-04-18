@@ -1,0 +1,24 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "zingten@zingalicio.us",
+    "enableMultiJS": false,
+    "longName": "binary",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "binary",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "556c6f27-b919-459d-93c4-020cc9321493",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
